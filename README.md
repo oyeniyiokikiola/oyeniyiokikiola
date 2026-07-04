@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&height=70&lines=Healthcare+Data+Analyst;Building+Data-Driven+Solutions+for+Better+Healthcare;Disease+Surveillance+%7C+Digital+Health" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&height=70&lines=Healthcare+Data+Analyst;Building+Data-Driven+Solutions+for+Better+Healthcare;Disease+Surveillance+%7C+Digital+Health" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -58,7 +58,7 @@ When I'm not working with data, I enjoy music, reading, networking, and studying
 </p>
 
 
-#### AI-Assisted Analytics
+#### AI for Data Analysis
 <p>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=flat" alt="Prompt Engineering">
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white">
