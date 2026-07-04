@@ -1,22 +1,22 @@
-## Hi there, I'm Okikiola 👋
+## Hi, I'm Okikiola 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Healthcare+Data+Analyst+%7C+Building+Data-Driven+Solutions+for+Better+Healthcare;Disease+Surveillance;Digital+Health" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/okikiola-oyeniyi-?"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://x.com/kiki_blacc?s=21"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X"></a>
+  <a href="https://x.com/kiki_blacc?s=21"><img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=X"></a>
   <a href="mailto:oyeniyiokikiola@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst with a background in public health research, passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights teams rely on for decisions.
+I am a Healthcare Data Analyst focused on disease surveillance, population health, health systems, and digital health. I analyze healthcare data to identify patterns, evaluate trends, and communicate evidence that supports informed decisions. I believe the value of an analysis lies in the decisions it informs, not in the dashboards it produces.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and translating metrics into insights leaders act on.
+My goal is to build data driven solutions that help health organizations respond to problems earlier, allocate resources more effectively, and improve care for the communities they serve.
 
 When I'm not working with data, I enjoy music, reading, networking,and studying public health trends. I love the "aha!" moment when data reveals something new and useful.
 
@@ -25,14 +25,15 @@ When I'm not working with data, I enjoy music, reading, networking,and studying 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Building a sales perfromance anslysis to identify revenue growth drivers in Excel 
-- **Project B:** Creating an interactive marketing dashboard in Power BI
+- **Project A:** Global Maternal Mortality Tracker:** Analyzing 23 years of WHO data across 195 countries to identify trends, regional disparities, and opportunities for improving maternal health outcomes. 
+- **Project B:** Health Worker Shortage Predictor:** Developing a predictive model using WHO workforce data to identify countries at risk of healthcare workforce shortages.
 - 
 
-## 🌱 Currently Learning 
+## 🌱 My Interests 
 
+- Digital Health
+- AI in Healthcare
 - Advanced machine learning techniques
-- Applying AI in Data Analytics
 
 ## 🛠️ Technical Skillset
 
